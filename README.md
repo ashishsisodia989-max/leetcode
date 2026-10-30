@@ -18,11 +18,7 @@ Each problem includes:
 
 Current Progress
 
-✅ Arrays
-
-- Two Sum
-- Contains Duplicate
-- Best Time to Buy and Sell Stock
+Arrays
 
 Trees
 
